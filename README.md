@@ -3,7 +3,7 @@
 STEP:
 1. add "ObCaiShenAPI.jar" at \Documents\Processing\libraries\minim\library
 2. switch helmet button to "ON" (I mark sign already, I think)
-3. LED of the helmet will blink
+3. LED of the helmet will blink, it not blink you should try to charge a battery
 4. if you don't connect helmet with your PC, program won't streaming
 <br />"This is how connect helmet (by Wifi)"
 - ssid: CaiShenWifi <br />

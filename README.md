@@ -28,7 +28,7 @@ NOTE:
 - My code end with my comment "//end here"
 - So you can search by these 2 keywords above
 - Don't forget to add "ObCaiShenAPI.jar" at \Documents\Processing\libraries\minim\library
-- If you are streaming and you press stop streaming, you have to back to main page (in the pictire) then press start system again, if you don't api will crash
+- If you are streaming and you press System Control Panel (I add api.disconnect() into this button), you have to back to main page (in the picture) then press start system again, if you don't api will crash
 <img src="https://www.picz.in.th/images/2018/01/25/main-page.png" alt="main-page.png" border="0" />
 
 - CaiShenAPI_BrainDynamics folder is the example use of api

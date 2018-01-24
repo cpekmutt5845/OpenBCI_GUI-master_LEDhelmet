@@ -5,7 +5,7 @@ STEP:
 2. switch helmet button to "ON" (I mark sign already, I think)
 3. LED of the helmet will blink
 4. if you don't connect helmet with your PC, program won't streaming
-"This is how connect helmet (by Wifi)"
+<br />"This is how connect helmet (by Wifi)"
 - ssid: CaiShenWifi <br />
   password: caishen1234
 5. Check your PC is connected with helmet

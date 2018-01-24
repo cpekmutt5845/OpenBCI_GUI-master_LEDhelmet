@@ -30,3 +30,5 @@ NOTE:
 - Don't forget to add "ObCaiShenAPI.jar" at \Documents\Processing\libraries\minim\library
 - If you are streaming and you press stop streaming, you have to back to main page (in the pictire) then press start system again, if you don't api will crash
 <img src="https://www.picz.in.th/images/2018/01/25/main-page.png" alt="main-page.png" border="0" />
+
+- CaiShenAPI_BrainDynamics folder is the example use of api
